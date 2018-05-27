@@ -1,6 +1,7 @@
 # Constructing Your Digital Identity with GitHub
-Author: Taylor Arnold, Math & Computer Science, University of Richmond
-----------------
+
+#### Author: Taylor Arnold, Math & Computer Science, University of Richmond
+------
 
 GitHub is a web platform for archiving collections of code and
 other materials into what are known as *repositories*. It is 
