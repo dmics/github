@@ -1,4 +1,6 @@
 # Constructing Your Digital Identity with GitHub
+Author: Taylor Arnold, Math & Computer Science, University of Richmond
+----------------
 
 GitHub is a web platform for archiving collections of code and
 other materials into what are known as *repositories*. It is 
@@ -88,6 +90,7 @@ the basic information on your GitHub page, follow the Jekyll tutorial
 for setting up a complete website entirely hosted on GitHub. You can
 see an example of this on my GitHub pages:
 
-- [http://nolauren.github.io/](http://nolauren.github.io/)
+- [http://statsmaths.github.io/](http://statsmaths.github.io/)
 
 Otherwise, share and enjoy!
+
